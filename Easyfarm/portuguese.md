@@ -9,23 +9,19 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/Easyfarm/english.
 
 
 <p align="center" direction="row">
-  <a href="#iphone-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#balloon-módulos">Módulos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  |&nbsp;&nbsp;&nbsp;
+  <a href="#modulo1">modulo1</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#modulo2">modulo2</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-#
-
-<div align="center">
-
-### Minha experiência
-
-</div>
-
-#
 
 ### :iphone: Sobre o projeto
 
 ### :balloon: Módulos
+
+#### modulo1
+
+#### modulo2
 
 ---
 

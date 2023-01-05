@@ -8,7 +8,7 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/Easyfarm/english.
   <a href="#iphone-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;
   |&nbsp;&nbsp;&nbsp;
   <a href="#login">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#modulo2">modulo2</a>&nbsp;&nbsp;&nbsp;
+  <a href="#pesagem">Pesagem</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ### :iphone: Sobre o projeto
@@ -22,9 +22,10 @@ Este software percente a empresa Rerum.
 
 <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/Utl3RLJY#NO2DQMnyTQo-uXdgo2MRiJ3gxgtkl_BldN7c9BjDAJA" allowfullscreen ></iframe>
 
-#### modulo2
+#### Pesagem
 
 <iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/5pUGVZ6a#F-bto7MIxXt95D2BId-9Pxnykfpsr0FT6epeYvRwhWM" allowfullscreen ></iframe>
+
 
 ---
 

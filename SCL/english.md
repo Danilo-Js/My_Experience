@@ -1,28 +1,31 @@
 <div align="center">
 
-Mudar para [português](https://github.com/Danilo-Js/My_Experience/SCL/portuguese.md)
+Mudar parar [português](https://github.com/Danilo-Js/My_Experience/Easyfarm/portuguese.md)
 
 </div>
-<p align="center">
-  <img src="./images/SCL.png">
-</p>
-
 
 <p align="center" direction="row">
-  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#modulo1">modulo1</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#modulo2">modulo2</a>&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;&nbsp;
+  |&nbsp;&nbsp;&nbsp;
+  <a href="#login">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#weighing">Weighing</a>&nbsp;&nbsp;&nbsp;
 </p>
-
-#
 
 ### :iphone: About the project
 
+The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
+This software belongs to the company Rerum.
+
 ### :balloon: Modules
 
-#### modulo1
+#### Login
 
-#### modulo2
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/Utl3RLJY#NO2DQMnyTQo-uXdgo2MRiJ3gxgtkl_BldN7c9BjDAJA" allowfullscreen ></iframe>
+
+#### Weighing
+
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/5pUGVZ6a#F-bto7MIxXt95D2BId-9Pxnykfpsr0FT6epeYvRwhWM" allowfullscreen ></iframe>
+
 
 ---
 

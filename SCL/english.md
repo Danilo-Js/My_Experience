@@ -26,5 +26,5 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/SCL/portugues
 
 ---
 
-#### Feito por Danilo José Lima de Oliveira ♥ 
-#### [Entre em contato!](https://www.linkedin.com/in/danilo-js/) comigo 
+#### Made by Danilo José Lima de Oliveira ♥ 
+#### [Get in touch!](https://www.linkedin.com/in/danilo-js/) with me 

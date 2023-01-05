@@ -9,8 +9,9 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/english.md)
 
 
 <p align="center" direction="row">
-  <a href="#balloon-what-is-this">O que é isso?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iphone-about-the-projects">Sobre os projetos</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#balloon-o-que-é-isso">O que é isso?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#easyfarm">Easyfarm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#scl">SCL</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 #
@@ -31,7 +32,7 @@ Esta é uma compilação de projetos privados que desenvolvi.
 
 ### :iphone: Sobre os projetos
 
-#### [01](https://github.com/My_Experience/Easyfarm/portuguese.md) -> Easyfarm
+#### Easyfarm
 
 A missão do EasyFarm é organizar todas as informações da fazenda em um só lugar, possibilitando a gestão de uma fazenda de forma completa, simples e organizada.
 Essa gestão é feita através dos módulos: Atividade Agrícola, Abastecimento, Estoque, Manutenção, Ordens de Serviço, Compras e Pluviometria.
@@ -39,8 +40,7 @@ Há também a geração de relatórios para cada um dos módulos.
 
 Ver [mais](https://github.com/My_Experience/Easyfarm/portuguese.md)
 
-
-#### [02](https://github.com/My_Experience/SCL/portuguese.md) -> SCL
+#### SCL
 
 O Sistema de Controle de Leite é uma ferramente feita para a Associação Brasileira de Criadores Girolando gerenciar seus criadores, vacas e produção de leite.
 Este software percente a empresa Rerum.
@@ -50,4 +50,5 @@ Ver [mais](https://github.com/My_Experience/SCL/portuguese.md)
 #
 ---
 
-#### Feito por Danilo José Lima de Oliveira ♥
+#### Feito por Danilo José Lima de Oliveira ♥ 
+#### [Entre em contato!](https://www.linkedin.com/in/danilo-js/) comigo 

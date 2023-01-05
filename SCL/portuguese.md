@@ -1,6 +1,6 @@
 <div align="center">
 
-Switch to [english](https://github.com/Danilo-Js/My_Experience/Easyfarm/english.md)
+Switch to [english](https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/english.md)
 
 </div>
 

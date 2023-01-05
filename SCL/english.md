@@ -1,6 +1,6 @@
 <div align="center">
 
-Mudar parar [português](https://github.com/Danilo-Js/My_Experience/Easyfarm/portuguese.md)
+Mudar parar [português](https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/portuguese.md)
 
 </div>
 

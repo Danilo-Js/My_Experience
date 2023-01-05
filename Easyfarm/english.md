@@ -1,6 +1,6 @@
 <div align="center">
 
-Mudar para [português](https://github.com/Danilo-Js/My_Experience/Easyfarm/portuguese.md)
+Mudar para [português](https://github.com/Danilo-Js/My_Experience/blob/main/blob/main/Easyfarm/portuguese.md)
 
 </div>
 

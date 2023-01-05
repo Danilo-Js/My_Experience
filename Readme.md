@@ -1,6 +1,6 @@
 <div align="center">
 
-Mudar para [português](https://github.com/Danilo-Js/My_Experience/portuguese.md)
+Mudar para [português](https://github.com/Danilo-Js/My_Experience/blob/main/blob/main/portuguese.md)
 
 </div>
 <p align="center">
@@ -37,7 +37,7 @@ EasyFarm's mission is to organize all farm information in one place, making it p
 This management is done through the modules: Agricultural Activity, Supply, Inventory, Maintenance, Service Orders, Purchases, and Rainfall.
 There is also the generation of reports for each of the modules.
 
-See [more](https://github.com/My_Experience/Easyfarm/english.md)
+See [more](https://github.com/My_Experience/blob/main/Easyfarm/english.md)
 
 
 #### SCL
@@ -45,7 +45,7 @@ See [more](https://github.com/My_Experience/Easyfarm/english.md)
 The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
 This software belongs to the company Rerum.
 
-See [more](https://github.com/My_Experience/SCL/english.md)
+See [more](https://github.com/My_Experience/blob/main/SCL/english.md)
 
 #
 ---

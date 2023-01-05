@@ -38,14 +38,14 @@ A missão do EasyFarm é organizar todas as informações da fazenda em um só l
 Essa gestão é feita através dos módulos: Atividade Agrícola, Abastecimento, Estoque, Manutenção, Ordens de Serviço, Compras e Pluviometria.
 Há também a geração de relatórios para cada um dos módulos.
 
-Ver [mais](https://github.com/My_Experience/blob/main/Easyfarm/portuguese.md)
+Ver [mais](https://github.com/My_Experience/tree/main/Easyfarm/portuguese.md)
 
 #### SCL
 
 O Sistema de Controle de Leite é uma ferramente feita para a Associação Brasileira de Criadores Girolando gerenciar seus criadores, vacas e produção de leite.
 Este software percente a empresa Rerum.
 
-Ver [mais](https://github.com/My_Experience/blob/main/SCL/portuguese.md)
+Ver [mais](https://github.com/My_Experience/tree/main/SCL/portuguese.md)
 
 #
 ---

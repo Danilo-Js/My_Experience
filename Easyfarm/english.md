@@ -3,10 +3,6 @@
 Mudar para [português](https://github.com/Danilo-Js/My_Experience/Easyfarm/portuguese.md)
 
 </div>
-<p align="center">
-  <img src="../images/easyfarm.png">
-</p>
-
 
 <p align="center" direction="row">
   <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;&nbsp;

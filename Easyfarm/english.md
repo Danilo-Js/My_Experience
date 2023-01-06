@@ -33,6 +33,16 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/tree/main/Eas
   <a href="#financial-report">Financial report</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+#
+
+<p align="center">
+  <img src="./assets/2_Menus.gif" alt="animated" />
+  <img src="./assets/3_AtividadeAgricola.gif" alt="animated" />
+  <img src="./assets/4_Abastecimento.gif" alt="animated" />
+</p>
+
+#
+
 ### :iphone: About the project
 
 EasyFarm's mission is to organize all farm information in one place, making it possible to manage a farm in a complete, simple, and organized way.
@@ -45,15 +55,7 @@ There is also the generation of reports for each of the modules.
 
 #### [Menus](https://mega.nz/embed/Mt9VSDZL#CSsENOemYXQSI1Qb3oPvA9Ciy-spSk1PuA1ep-5Qa6s)
 
-<p align="center">
-  <img src="./assets/2_Menus.gif" alt="animated" />
-</p>
-
 #### [Agricultural Activity](https://mega.nz/embed/t80H2ZZJ#S17zmTEd3rbvRobc3v-TsxZ5n3aejsiqLY57tWdrt1I)
-
-<p align="center">
-  <img src="./assets/3_AtividadeAgricola.gif" alt="animated" />
-</p>
 
 #### [Stock Transfer](https://mega.nz/embed/8x8WEBwR#A9yeobAqQXu5j4ALQrkdQCKjsQcWQGAmjmBD7BC70zg)
 
@@ -64,10 +66,6 @@ There is also the generation of reports for each of the modules.
 #### [Maintenance](https://mega.nz/embed/IgFDHbCL#DxQeA-j2HwSL8GI5PZT61sxsF3wuL0hYNhJh29QIYt8)
 
 #### [Supply](https://mega.nz/embed/Msc01RAL#uzz1eUf1al4DNrh3-qiBmrXQdQD-0Q2g0e2_n1eQqek)
-
-<p align="center">
-  <img src="./assets/4_Abastecimento.gif" alt="animated" />
-</p>
 
 #### [Supply Report](https://mega.nz/embed/Fp1TBKob#eo2g3_thnT-gfn2ltnM9EFrZciFkEMfuOEaJzlXFHqk)
 

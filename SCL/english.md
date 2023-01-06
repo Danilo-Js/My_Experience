@@ -32,7 +32,7 @@ This software belongs to the company Rerum.
 <img src="./assets/1_Login.gif" alt="animated" />
 
 #### [Weighing](https://mega.nz/embed/5pUGVZ6a#F-bto7MIxXt95D2BId-9Pxnykfpsr0FT6epeYvRwhWM)
-<img src="./assets/2.gif.gif" alt="animated" />
+<img src="./assets/2.gif" alt="animated" />
 
 </div>
 

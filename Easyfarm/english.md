@@ -41,54 +41,29 @@ There is also the generation of reports for each of the modules.
 
 ### :balloon: Modules
 
-#### Login
+#### [Login](https://mega.nz/embed/8pllXbpB#7NvnnT-Ul4gtQtKB3zFxtZzV7LC7T2AfYNx_rD9EkZQ)
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/8pllXbpB#7NvnnT-Ul4gtQtKB3zFxtZzV7LC7T2AfYNx_rD9EkZQ" allowfullscreen ></iframe>
+#### [Menus](https://mega.nz/embed/Mt9VSDZL#CSsENOemYXQSI1Qb3oPvA9Ciy-spSk1PuA1ep-5Qa6s)
 
-#### Menus
+#### [Agricultural Activity](https://mega.nz/embed/t80H2ZZJ#S17zmTEd3rbvRobc3v-TsxZ5n3aejsiqLY57tWdrt1I)
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/Mt9VSDZL#CSsENOemYXQSI1Qb3oPvA9Ciy-spSk1PuA1ep-5Qa6s" allowfullscreen ></iframe>
+#### [Stock Transfer](https://mega.nz/embed/8x8WEBwR#A9yeobAqQXu5j4ALQrkdQCKjsQcWQGAmjmBD7BC70zg)
 
-#### Agricultural Activity
+#### [Order of Service](https://mega.nz/embed/l00XjbJR#gGh7tReVVZWMHJpBd4JPmop-pUOQ9peJqg2KUaTXOVM)
 
+#### [Rainfall](https://mega.nz/embed/o4VTFRwQ#EoRMHeHADuTFD8cXsTp4OUZmy4JJw8ITrZmxm6HeVrc)
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/t80H2ZZJ#S17zmTEd3rbvRobc3v-TsxZ5n3aejsiqLY57tWdrt1I" allowfullscreen ></iframe>
+#### [Maintenance](https://mega.nz/embed/IgFDHbCL#DxQeA-j2HwSL8GI5PZT61sxsF3wuL0hYNhJh29QIYt8)
 
-#### Stock Transfer
+#### [Supply](https://mega.nz/embed/Msc01RAL#uzz1eUf1al4DNrh3-qiBmrXQdQD-0Q2g0e2_n1eQqek)
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/8x8WEBwR#A9yeobAqQXu5j4ALQrkdQCKjsQcWQGAmjmBD7BC70zg" allowfullscreen ></iframe>
+#### [Supply Report](https://mega.nz/embed/Fp1TBKob#eo2g3_thnT-gfn2ltnM9EFrZciFkEMfuOEaJzlXFHqk)
 
-#### Order of Service
+#### [Purchasing Report](https://mega.nz/embed/c81FUKSK#89z3MvJKQHxEXLXGYouq2U_C45ZmlIPh7Tio4eL2pMk)
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/l00XjbJR#gGh7tReVVZWMHJpBd4JPmop-pUOQ9peJqg2KUaTXOVM" allowfullscreen ></iframe>
+#### [Rainfall Report](https://mega.nz/embed/YgNTFbJK#3xRITlQ9h3lwCmJVHZv_pLPq1t5ICyOQWOXbZvamExw)
 
-#### Rainfall
-
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/o4VTFRwQ#EoRMHeHADuTFD8cXsTp4OUZmy4JJw8ITrZmxm6HeVrc" allowfullscreen ></iframe>
-
-#### Maintenance
-
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/IgFDHbCL#DxQeA-j2HwSL8GI5PZT61sxsF3wuL0hYNhJh29QIYt8" allowfullscreen ></iframe>
-
-#### Supply
-
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/Msc01RAL#uzz1eUf1al4DNrh3-qiBmrXQdQD-0Q2g0e2_n1eQqek" allowfullscreen ></iframe>
-
-#### Supply Report
-
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/Fp1TBKob#eo2g3_thnT-gfn2ltnM9EFrZciFkEMfuOEaJzlXFHqk" allowfullscreen ></iframe>
-
-#### Purchasing Report
-
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/c81FUKSK#89z3MvJKQHxEXLXGYouq2U_C45ZmlIPh7Tio4eL2pMk" allowfullscreen ></iframe>
-
-#### Rainfall Report
-
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/YgNTFbJK#3xRITlQ9h3lwCmJVHZv_pLPq1t5ICyOQWOXbZvamExw" allowfullscreen ></iframe>
-
-#### Financial report
-
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/lxlkwaja#d-FW_LaPC1dHGkoF9Fv59hNCbzQDduOQ_3dJYWtkWW4" allowfullscreen ></iframe>
+#### [Financial report](https://mega.nz/embed/lxlkwaja#d-FW_LaPC1dHGkoF9Fv59hNCbzQDduOQ_3dJYWtkWW4)
 
 ---
 

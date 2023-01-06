@@ -39,7 +39,7 @@ EasyFarm's mission is to organize all farm information in one place, making it p
 This management is done through the modules: Agricultural Activity, Supply, Inventory, Maintenance, Service Orders, Purchases, and Rainfall.
 There is also the generation of reports for each of the modules.
 
-### :balloon: Modules
+### :balloon: Modules - Video gallery
 
 #### [Login](https://mega.nz/embed/8pllXbpB#7NvnnT-Ul4gtQtKB3zFxtZzV7LC7T2AfYNx_rD9EkZQ)
 

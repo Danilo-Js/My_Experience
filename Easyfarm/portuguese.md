@@ -49,35 +49,37 @@ Há também a geração de relatórios para cada um dos módulos.
 #### [Menus](https://mega.nz/embed/Mt9VSDZL#CSsENOemYXQSI1Qb3oPvA9Ciy-spSk1PuA1ep-5Qa6s)
 <img src="./assets/2_Menus.gif" alt="animated" />
 
-#### [Agricultural Activity](https://mega.nz/embed/t80H2ZZJ#S17zmTEd3rbvRobc3v-TsxZ5n3aejsiqLY57tWdrt1I)
+#### [Atividade Agrícola](https://mega.nz/embed/t80H2ZZJ#S17zmTEd3rbvRobc3v-TsxZ5n3aejsiqLY57tWdrt1I)
 <img src="./assets/3_AtividadeAgricola.gif" alt="animated" />
 
-#### [Stock Transfer](https://mega.nz/embed/8x8WEBwR#A9yeobAqQXu5j4ALQrkdQCKjsQcWQGAmjmBD7BC70zg)
+#### [Transferência de estoque](https://mega.nz/embed/8x8WEBwR#A9yeobAqQXu5j4ALQrkdQCKjsQcWQGAmjmBD7BC70zg)
 <img src="./assets/13_TransferenciaDeEstoque.gif" alt="animated" />
 
-#### [Order of Service](https://mega.nz/embed/l00XjbJR#gGh7tReVVZWMHJpBd4JPmop-pUOQ9peJqg2KUaTXOVM)
+#### [Ordem de serviço](https://mega.nz/embed/l00XjbJR#gGh7tReVVZWMHJpBd4JPmop-pUOQ9peJqg2KUaTXOVM)
 <img src="./assets/7_OrdemDeServico.gif" alt="animated" />
 
-#### [Rainfall](https://mega.nz/embed/o4VTFRwQ#EoRMHeHADuTFD8cXsTp4OUZmy4JJw8ITrZmxm6HeVrc)
+#### [Pluviometria](https://mega.nz/embed/o4VTFRwQ#EoRMHeHADuTFD8cXsTp4OUZmy4JJw8ITrZmxm6HeVrc)
 <img src="./assets/8_Pluviometria.gif" alt="animated" />
 
-#### [Maintenance](https://mega.nz/embed/IgFDHbCL#DxQeA-j2HwSL8GI5PZT61sxsF3wuL0hYNhJh29QIYt8)
+#### [Manutenções](https://mega.nz/embed/IgFDHbCL#DxQeA-j2HwSL8GI5PZT61sxsF3wuL0hYNhJh29QIYt8)
 <img src="./assets/6_Manutencoes.gif" alt="animated" />
 
-#### [Supply](https://mega.nz/embed/Msc01RAL#uzz1eUf1al4DNrh3-qiBmrXQdQD-0Q2g0e2_n1eQqek)
+#### [Abastecimento](https://mega.nz/embed/Msc01RAL#uzz1eUf1al4DNrh3-qiBmrXQdQD-0Q2g0e2_n1eQqek)
 <img src="./assets/4_Abastecimento.gif" alt="animated" />
 
-#### [Supply Report](https://mega.nz/embed/Fp1TBKob#eo2g3_thnT-gfn2ltnM9EFrZciFkEMfuOEaJzlXFHqk)
+#### [Relatório de abastecimento](https://mega.nz/embed/Fp1TBKob#eo2g3_thnT-gfn2ltnM9EFrZciFkEMfuOEaJzlXFHqk)
 <img src="./assets/9_RelatorioAbastecimento.gif" alt="animated" />
 
-#### [Purchasing Report](https://mega.nz/embed/c81FUKSK#89z3MvJKQHxEXLXGYouq2U_C45ZmlIPh7Tio4eL2pMk)
+#### [Relatório de Compras](https://mega.nz/embed/c81FUKSK#89z3MvJKQHxEXLXGYouq2U_C45ZmlIPh7Tio4eL2pMk)
 <img src="./assets/10_RelatorioCompras.gif" alt="animated" />
 
-#### [Rainfall Report](https://mega.nz/embed/YgNTFbJK#3xRITlQ9h3lwCmJVHZv_pLPq1t5ICyOQWOXbZvamExw)
+#### [Relatório de Pluviometria](https://mega.nz/embed/YgNTFbJK#3xRITlQ9h3lwCmJVHZv_pLPq1t5ICyOQWOXbZvamExw)
 <img src="./assets/12_RelatorioPluvioMetria.gif" alt="animated" />
 
-#### [Financial report](https://mega.nz/embed/lxlkwaja#d-FW_LaPC1dHGkoF9Fv59hNCbzQDduOQ_3dJYWtkWW4)
+#### [Relatório de contas](https://mega.nz/embed/lxlkwaja#d-FW_LaPC1dHGkoF9Fv59hNCbzQDduOQ_3dJYWtkWW4)
 <img src="./assets/11_RelatorioContasAPagar.gif" alt="animated" />
+
+</div>
 
 ---
 

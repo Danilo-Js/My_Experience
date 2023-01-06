@@ -19,14 +19,23 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/tree/main/SCL/eng
 
 ### :iphone: Sobre o projeto
 
+<p align="justify">
 O Sistema de Controle de Leite é uma ferramente feita para a Associação Brasileira de Criadores Girolando gerenciar seus criadores, vacas e produção de leite.
 Este software percente a empresa Rerum.
+</p>
 
 ### :balloon: Módulos - Galeria de vídeos
 
+<div align="center">
+
 #### [Login](https://mega.nz/embed/Utl3RLJY#NO2DQMnyTQo-uXdgo2MRiJ3gxgtkl_BldN7c9BjDAJA)
+<img src="./assets/1_Login.gif" alt="animated" />
+
 
 #### [Pesagem](https://mega.nz/embed/5pUGVZ6a#F-bto7MIxXt95D2BId-9Pxnykfpsr0FT6epeYvRwhWM)
+<img src="./assets/2.gif.gif" alt="animated" />
+
+</div>
 
 ---
 

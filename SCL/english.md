@@ -19,14 +19,22 @@ Mudar parar [português](https://github.com/Danilo-Js/My_Experience/tree/main/SC
 
 ### :iphone: About the project
 
+<p align="justify">
 The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
 This software belongs to the company Rerum.
+</p>
 
 ### :balloon: Modules - Video Gallery
 
+<div align="center">
+
 #### [Login](https://mega.nz/embed/Utl3RLJY#NO2DQMnyTQo-uXdgo2MRiJ3gxgtkl_BldN7c9BjDAJA)
+<img src="./assets/1_Login.gif" alt="animated" />
 
 #### [Weighing](https://mega.nz/embed/5pUGVZ6a#F-bto7MIxXt95D2BId-9Pxnykfpsr0FT6epeYvRwhWM)
+<img src="./assets/2.gif.gif" alt="animated" />
+
+</div>
 
 ---
 

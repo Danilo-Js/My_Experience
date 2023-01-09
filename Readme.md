@@ -35,12 +35,12 @@ This is a compilation of private projects I've developed.
 EasyFarm's mission is to organize all farm information in one place, making it possible to manage a farm in a complete, simple, and organized way.
 This management is done through the modules: Agricultural Activity, Supply, Inventory, Maintenance, Service Orders, Purchases, and Rainfall.
 There is also the generation of reports for each of the modules.
+
 See [more](https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/english.md)
 
 <p align="center">
   <img src="./Easyfarm/assets/7_OrdemDeServico.gif" alt="animated" />
 </p>
-
 
 #### SCL
 
@@ -51,8 +51,6 @@ See [more](https://github.com/Danilo-Js/My_Experience/blob/main/SCL/english.md)
 <p align="center">
   <img src="./SCL/assets/2.gif" alt="animated" />
 </p>
-
-#
 
 ---
 

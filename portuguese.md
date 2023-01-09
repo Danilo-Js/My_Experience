@@ -40,6 +40,10 @@ Há também a geração de relatórios para cada um dos módulos.
 
 Ver [mais](https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/portuguese.md)
 
+<p align="center">
+  <img src="./Easyfarm/assets/7_OrdemDeServico.gif" alt="animated" />
+</p>
+
 #### SCL
 
 O Sistema de Controle de Leite é uma ferramente feita para a Associação Brasileira de Criadores Girolando gerenciar seus criadores, vacas e produção de leite.
@@ -47,7 +51,10 @@ Este software percente a empresa Rerum.
 
 Ver [mais](https://github.com/Danilo-Js/My_Experience/blob/main/SCL/portuguese.md)
 
-#
+<p align="center">
+  <img src="./SCL/assets/2.gif" alt="animated" />
+</p>
+
 ---
 
 #### Feito por Danilo José Lima de Oliveira ♥ 

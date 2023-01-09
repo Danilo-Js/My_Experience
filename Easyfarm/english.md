@@ -81,6 +81,7 @@ There is also the generation of reports for each of the modules.
 <img src="./assets/11_RelatorioContasAPagar.gif" alt="animated" />
 
 </div>
+
 ---
 
 #### Made by Danilo José Lima de Oliveira ♥ 

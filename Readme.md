@@ -39,8 +39,6 @@ See [more](https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/english
   <img src="./Easyfarm/assets/7_OrdemDeServico.gif" alt="animated" />
 </p>
 
-#
-
 ## SCL
 
 The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.

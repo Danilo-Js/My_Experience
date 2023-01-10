@@ -7,6 +7,11 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/blob/main/por
   <img src="./images/reactNative.png">
 </p>
 
+<div align="center">
+
+# My experience
+
+</div>
 
 <p align="center" direction="row">
   <a href="#balloon-what-is-this">What is this?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -14,21 +19,13 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/blob/main/por
   <a href="#scl">SCL</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-#
-
-<div align="center">
-
-### My experience
-
-</div>
-
-### :balloon: What is this?
+## :balloon: What is this?
 
 This is a compilation of private projects I've developed.
 
 #
 
-### :iphone: About the projects
+# :iphone: About the projects
 
 #### Easyfarm
 

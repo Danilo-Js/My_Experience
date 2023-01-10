@@ -84,3 +84,8 @@ Para escrever o código:
 
 #### Feito por Danilo José Lima de Oliveira ♥ 
 #### [Entre em contato!](https://www.linkedin.com/in/danilo-js/) comigo 
+
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[vcprettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode

@@ -19,13 +19,15 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/blob/main/por
   <a href="#scl">SCL</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+</br>
+
 ## :balloon: What is this?
 
 This is a compilation of private projects I've developed.
 
 #
 
-# :iphone: About the projects
+## :iphone: About the projects
 
 #### Easyfarm
 

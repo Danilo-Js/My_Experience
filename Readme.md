@@ -25,8 +25,6 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/blob/main/por
 
 This is a compilation of private projects I've developed.
 
-</br>
-
 ## :iphone: About the projects
 
 ## Easyfarm

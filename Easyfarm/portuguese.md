@@ -12,7 +12,7 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/tree/main/Easyfar
 
 <p align="center" direction="row">
   <a href="#iphone-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocker-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#balloon-módulos">Módulos</a>
 </p>
 

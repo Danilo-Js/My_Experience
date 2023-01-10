@@ -4,17 +4,17 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/tree/main/Eas
 
 </div>
 
-<p align="center" direction="row">
-  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#balloon-modules">Modules</a>
-</p>
-
 <div align="center">
 
 # Easyfarm
 
 </div>
+
+<p align="center" direction="row">
+  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#balloon-modules">Modules</a>
+</p>
 
 ## :iphone: About the project
 

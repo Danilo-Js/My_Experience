@@ -31,7 +31,7 @@ To write the code:
 -  [VS Code][vc] with [EditorConfig][vceditconfig], [ESLint][vceslint] and [Prettier][vcprettier]
 
 #### The code itself
--  [React Navigation 5.x]()
+-  [React Navigation 5.x](https://reactnavigation.org/docs/5.x/getting-started)
     - react-navigation/stack
     - react-navigation/native
     - react-navigation/material-bottom-tabs
@@ -59,8 +59,10 @@ To write the code:
 -  [Crisp-Chat-Sdk](https://github.com/walterholohan/react-native-crisp-chat-sdk)
 -  [Paper](https://reactnativepaper.com)
 -  [Pie-Chart](github.com/genexu/react-native-pie-chart)
--  [Portalize](https://github.com/jeremybarbet/react-native-portalize)
 -  [Fetch-Blob](https://github.com/wkh237/react-native-fetch-blob)
+-  [Portalize](https://github.com/jeremybarbet/react-native-portalize)
+-  [Modalize](https://github.com/jeremybarbet/react-native-portalize)
+-  [Moment](https://momentjs.com)
 
 ## :balloon: Modules
 ##### This is a video gallery. Click on the module name to watch the video!

@@ -16,6 +16,8 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/tree/main/Easyfar
   <a href="#balloon-módulos">Módulos</a>
 </p>
 
+#
+
 ### :iphone: Sobre o projeto
 
 <p align="justify">
@@ -61,7 +63,7 @@ Para escrever o código:
 -  [Portalize](https://github.com/jeremybarbet/react-native-portalize)
 -  [Fetch-Blob](https://github.com/wkh237/react-native-fetch-blob)
 
-### :balloon: Módulos
+## :balloon: Módulos
 ##### Esta é uma galeria de vídeos. Clique no módulo para assistir o vídeo!
 
 <div align="center">

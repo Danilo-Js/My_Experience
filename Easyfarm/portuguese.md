@@ -16,8 +16,6 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/tree/main/Easyfar
   <a href="#balloon-módulos">Módulos</a>
 </p>
 
-#
-
 ## :iphone: Sobre o projeto
 
 <p align="justify">

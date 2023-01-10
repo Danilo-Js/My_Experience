@@ -15,8 +15,8 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/blob/main/por
 
 <p align="center" direction="row">
   <a href="#balloon-what-is-this">What is this?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#easyfarm">Easyfarm</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#scl">SCL</a>&nbsp;&nbsp;&nbsp;
+  <a href="#easyfarm">Easyfarm</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#scl">SCL</a>
 </p>
 
 </br>

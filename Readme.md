@@ -27,7 +27,7 @@ This is a compilation of private projects I've developed.
 
 ## :iphone: About the projects
 
-#### Easyfarm
+## Easyfarm
 
 EasyFarm's mission is to organize all farm information in one place, making it possible to manage a farm in a complete, simple, and organized way.
 This management is done through the modules: Agricultural Activity, Supply, Inventory, Maintenance, Service Orders, Purchases, and Rainfall.
@@ -41,7 +41,7 @@ See [more](https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/english
 
 #
 
-#### SCL
+## SCL
 
 The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
 This software belongs to the company Rerum.

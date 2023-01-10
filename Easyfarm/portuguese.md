@@ -18,7 +18,7 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/tree/main/Easyfar
 
 #
 
-### :iphone: Sobre o projeto
+## :iphone: Sobre o projeto
 
 <p align="justify">
 A missão do EasyFarm é organizar todas as informações da fazenda em um só lugar, possibilitando a gestão de uma fazenda de forma completa, simples e organizada.

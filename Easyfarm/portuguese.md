@@ -6,30 +6,14 @@ Switch to [english](https://github.com/Danilo-Js/My_Experience/tree/main/Easyfar
 
 <div align="center">
 
-## Easyfarm
+# Easyfarm
 
 </div>
 
 <p align="center" direction="row">
-  <a href="#iphone-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  |&nbsp;&nbsp;&nbsp;
-  <a href="#login">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#menus">Menus</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#atividade-agrícola">Atividade Agrícola</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#transferência-de-estoque">Transferência de estoque</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#ordem-de-serviço">Ordem de serviço</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pluviometria">Pluviometria</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#manutenções">Manutenções</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#abastecimento">Abastecimento</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#relatório-de-abastecimento">Relatório de abastecimento</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#relatório-de-compras">Relatório de Compras</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#relatório-de-pluviometria">Relatório de Pluviometria</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#relatório-de-contas">Relatório de contas</a>&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocker-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#balloon-módulos">Módulos</a>
 </p>
 
 ### :iphone: Sobre o projeto
@@ -40,7 +24,45 @@ Essa gestão é feita através dos módulos: Atividade Agrícola, Abastecimento,
 Há também a geração de relatórios para cada um dos módulos.
 </p>
 
-### :balloon: Módulos - Galeria de vídeos
+## :rocket: Tecnologias
+
+Para escrever o código:
+-  [VS Code][vc] com [EditorConfig][vceditconfig], [ESLint][vceslint] e [Prettier][vcprettier]
+
+#### O código em si
+-  [React Navigation 5.x]()
+    - react-navigation/stack
+    - react-navigation/native
+    - react-navigation/material-bottom-tabs
+    - react-navigation/drawer
+-  [React-Native](https://facebook.github.io/react-native/)
+-  [Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
+-  [Safe-Area-Context](https://github.com/th3rdwave/react-native-safe-area-context)
+-  [Screens](https://github.com/software-mansion/react-native-screens)
+-  [Exception-Handler](https://github.com/a7ul/react-native-exception-handler)
+-  [Responsive-Screen](https://github.com/marudy/react-native-responsive-screen)
+-  [MaskedView](https://github.com/react-native-community/react-native-masked-view)
+-  [AsyncStorage](https://github.com/react-native-community/async-storage)
+-  [Styled-Components](https://www.styled-components.com/)
+-  [Axios](https://www.npmjs.com/package/react-native-axios)
+-  [Reanimated](https://github.com/software-mansion/react-native-reanimated)
+-  [Vector-Icons](https://github.com/oblador/react-native-vector-icons)
+-  [WebView](https://github.com/react-native-community/react-native-webview)
+-  [DateTimePicker](https://github.com/react-native-datetimepicker/datetimepicker)
+-  [DatePicker](https://github.com/henninghall/react-native-date-picker)
+-  [DocumentPicker](https://github.com/rnmods/react-native-document-picker)
+-  [Redux & Redux-Persist](https://https://redux.js.org/introduction/getting-started)
+-  [NetInfo](https://github.com/react-native-netinfo/react-native-netinfo)
+-  [Date-Fns](https://github.com/date-fns/date-fns)
+-  [Canvas](https://github.com/iddan/react-native-canvas)
+-  [Crisp-Chat-Sdk](https://github.com/walterholohan/react-native-crisp-chat-sdk)
+-  [Paper](https://reactnativepaper.com)
+-  [Pie-Chart](github.com/genexu/react-native-pie-chart)
+-  [Portalize](https://github.com/jeremybarbet/react-native-portalize)
+-  [Fetch-Blob](https://github.com/wkh237/react-native-fetch-blob)
+
+### :balloon: Módulos
+##### Esta é uma galeria de vídeos. Clique no módulo para assistir o vídeo!
 
 <div align="center">
 
@@ -85,3 +107,8 @@ Há também a geração de relatórios para cada um dos módulos.
 
 #### Feito por Danilo José Lima de Oliveira ♥ 
 #### [Entre em contato!](https://www.linkedin.com/in/danilo-js/) comigo 
+
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[vcprettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode

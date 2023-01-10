@@ -4,36 +4,19 @@ Mudar para [português](https://github.com/Danilo-Js/My_Experience/tree/main/Eas
 
 </div>
 
+<p align="center" direction="row">
+  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#balloon-modules">Modules</a>
+</p>
+
 <div align="center">
 
-## Easyfarm
+# Easyfarm
 
 </div>
 
-<p align="center" direction="row">
-  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  |&nbsp;&nbsp;&nbsp;
-  <a href="#login">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#menus">Menus</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#agricultural-activity">Agricultural Activity
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#stock-transfer">Stock Transfer</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#order-of-service">Order of Service</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rainfall">Rainfall</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#maintenance">Maintenance</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#supply">Supply</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#supply-report">Supply Report</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#purchasing-report">Purchasing Report</a>&nbsp;&nbsp;&nbsp;
-  | &nbsp;&nbsp;&nbsp;
-  <a href="#rainfall-report">Rainfall Report</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#financial-report">Financial report</a>&nbsp;&nbsp;&nbsp;
-</p>
-
-### :iphone: About the project
+## :iphone: About the project
 
 <p align="justify">
 EasyFarm's mission is to organize all farm information in one place, making it possible to manage a farm in a complete, simple, and organized way.
@@ -41,7 +24,46 @@ This management is done through the modules: Agricultural Activity, Supply, Inve
 There is also the generation of reports for each of the modules.
 </p>
 
-### :balloon: Modules - Video gallery
+
+## :rocket: Technologies
+
+To write the code:
+-  [VS Code][vc] with [EditorConfig][vceditconfig], [ESLint][vceslint] and [Prettier][vcprettier]
+
+#### The code itself
+-  [React Navigation 5.x]()
+    - react-navigation/stack
+    - react-navigation/native
+    - react-navigation/material-bottom-tabs
+    - react-navigation/drawer
+-  [React-Native](https://facebook.github.io/react-native/)
+-  [Gesture Handler](https://kmagiera.github.io/react-native-gesture-handler/)
+-  [Safe-Area-Context](https://github.com/th3rdwave/react-native-safe-area-context)
+-  [Screens](https://github.com/software-mansion/react-native-screens)
+-  [Exception-Handler](https://github.com/a7ul/react-native-exception-handler)
+-  [Responsive-Screen](https://github.com/marudy/react-native-responsive-screen)
+-  [MaskedView](https://github.com/react-native-community/react-native-masked-view)
+-  [AsyncStorage](https://github.com/react-native-community/async-storage)
+-  [Styled-Components](https://www.styled-components.com/)
+-  [Axios](https://www.npmjs.com/package/react-native-axios)
+-  [Reanimated](https://github.com/software-mansion/react-native-reanimated)
+-  [Vector-Icons](https://github.com/oblador/react-native-vector-icons)
+-  [WebView](https://github.com/react-native-community/react-native-webview)
+-  [DateTimePicker](https://github.com/react-native-datetimepicker/datetimepicker)
+-  [DatePicker](https://github.com/henninghall/react-native-date-picker)
+-  [DocumentPicker](https://github.com/rnmods/react-native-document-picker)
+-  [Redux & Redux-Persist](https://https://redux.js.org/introduction/getting-started)
+-  [NetInfo](https://github.com/react-native-netinfo/react-native-netinfo)
+-  [Date-Fns](https://github.com/date-fns/date-fns)
+-  [Canvas](https://github.com/iddan/react-native-canvas)
+-  [Crisp-Chat-Sdk](https://github.com/walterholohan/react-native-crisp-chat-sdk)
+-  [Paper](https://reactnativepaper.com)
+-  [Pie-Chart](github.com/genexu/react-native-pie-chart)
+-  [Portalize](https://github.com/jeremybarbet/react-native-portalize)
+-  [Fetch-Blob](https://github.com/wkh237/react-native-fetch-blob)
+
+## :balloon: Modules
+##### This is a video gallery. Click on the module name to watch the video!
 
 <div align="center">
 
@@ -86,3 +108,8 @@ There is also the generation of reports for each of the modules.
 
 #### Made by Danilo José Lima de Oliveira ♥ 
 #### [Get in touch!](https://www.linkedin.com/in/danilo-js/) with me 
+
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[vcprettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode

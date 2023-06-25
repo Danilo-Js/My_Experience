@@ -71,11 +71,11 @@ Para escrever o código:
 
 <div align="center">
 
-#### [Login](https://mega.nz/embed/Utl3RLJY#NO2DQMnyTQo-uXdgo2MRiJ3gxgtkl_BldN7c9BjDAJA)
+#### [Login](https://mega.nz/file/1oEQDByL#YPAT9MicDYn-5dDY41A3G4OBBm4oxtTajKK-kJeqPaI)
 <img src="./assets/1_Login.gif" alt="animated" />
 
 
-#### [Pesagem](https://mega.nz/embed/5pUGVZ6a#F-bto7MIxXt95D2BId-9Pxnykfpsr0FT6epeYvRwhWM)
+#### [Pesagem](https://mega.nz/file/E0N3na4Q#-lLSb0adqH_osrPKUeb5KDUEj1fkt6UnDs5BDmOKJuE)
 <img src="./assets/2.gif" alt="animated" />
 
 </div>

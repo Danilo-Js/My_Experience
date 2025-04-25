@@ -1,36 +1,34 @@
 <div align="center">
 
-Switch to [english](https://github.com/Danilo-Js/My_Experience/tree/main/SCL/english.md)
-
 </div>
 
 <div align="center">
 
-# SCL - Sistema de Controle de Leite
+# SCL - Milk Control System
 
 </div>
 
 <p align="center" direction="row">
-  <a href="#iphone-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#login">Login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#pesagem">Pesagem</a>
+  <a href="#weighing">Weighing</a>
 </p>
 
-## :iphone: Sobre o projeto
+## :iphone: About the project
 
 <p align="justify">
-O Sistema de Controle de Leite é uma ferramente feita para a Associação Brasileira de Criadores Girolando gerenciar seus criadores, vacas e produção de leite.
-Este software percente a empresa Rerum.
+The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
+This software belongs to the company Rerum.
 </p>
 
 
 ## :rocket: Technologies
 
-Para escrever o código:
--  [VS Code][vc] com [EditorConfig][vceditconfig], [ESLint][vceslint] e [Prettier][vcprettier]
+To write the code:
+-  [VS Code][vc] with [EditorConfig][vceditconfig], [ESLint][vceslint] and [Prettier][vcprettier]
 
-#### O código em si
+#### The code itself
 -  [React Navigation 6.x]()
     - react-navigation/native-stack
     - react-navigation/native
@@ -65,25 +63,23 @@ Para escrever o código:
 -  [Modalize](https://github.com/jeremybarbet/react-native-portalize)
 -  [Moment](https://momentjs.com)
 
-
-## :balloon: Módulos - Galeria de vídeos
-##### Esta é uma galeria de vídeos. Clique no módulo para assistir o vídeo!
+## :balloon: Modules 
+##### This is a video gallery. Click on the module name to watch the video!
 
 <div align="center">
 
 #### [Login](https://mega.nz/file/1oEQDByL#YPAT9MicDYn-5dDY41A3G4OBBm4oxtTajKK-kJeqPaI)
 <img src="./assets/1_Login.gif" alt="animated" />
 
-
-#### [Pesagem](https://mega.nz/file/E0N3na4Q#-lLSb0adqH_osrPKUeb5KDUEj1fkt6UnDs5BDmOKJuE)
+#### [Weighing](https://mega.nz/file/E0N3na4Q#-lLSb0adqH_osrPKUeb5KDUEj1fkt6UnDs5BDmOKJuE)
 <img src="./assets/2.gif" alt="animated" />
 
 </div>
 
 ---
 
-#### Feito por Danilo José Lima de Oliveira ♥ 
-#### [Entre em contato!](https://www.linkedin.com/in/danilo-js/) comigo 
+#### Made by Danilo José Lima de Oliveira ♥ 
+#### [Get in touch!](https://www.linkedin.com/in/danilo-js/) with me 
 
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig

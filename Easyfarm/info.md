@@ -1,7 +1,5 @@
 <div align="center">
 
-Mudar para [português](https://github.com/Danilo-Js/My_Experience/tree/main/Easyfarm/portuguese.md)
-
 </div>
 
 <div align="center">

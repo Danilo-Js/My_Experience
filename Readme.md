@@ -23,10 +23,8 @@ This repository serves as a portfolio showcasing the projects I've developed for
 <table>
   <tr>
     <td align="center">
-      <a href="./Easyfarm/assets/2_Menus.gif">
-        <img src="./Easyfarm/assets/2_Menus.gif" alt="Menus" width="200"/><br/>
-        <strong>Menus</strong>
-      </a>
+      <img src="./Easyfarm/assets/2_Menus.gif" alt="Menus" width="200"/><br/>
+      <strong>Menus</strong>
     </td>
     <td align="center">
       <a href="./Easyfarm/assets/3_AtividadeAgricola.gif">

@@ -5,7 +5,6 @@
 </div>
 
 <p align="center" direction="row">
-  <a href="#balloon-what-is-this">What is this?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#easyfarm">Easyfarm</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#scl">SCL</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sobcontrole">SebraeApp</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

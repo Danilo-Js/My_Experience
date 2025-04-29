@@ -18,8 +18,49 @@
 ## :iphone: About the project
 
 <p align="justify">
-The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
-This software belongs to the company Rerum.
+The Milk Control System is a tool developed for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
+</p>
+
+<p align="justify">
+The project was developed using React Native for the front-end and PostgreSQL with Ruby on Rails for the back-end. I was the sole developer responsible for both the back-end and the front-end.
+</p>
+
+## 📸 Gallery
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/Drawer.jpg" alt="Component 1" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/Menu.jpg" alt="Component 2" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/Animais.jpg" alt="Component 3" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/Revisao.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/Parto.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://flic.kr/s/aHBqjCc7yQ" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Full%20Gallery-0078D7?style=for-the-badge&logo=google&logoColor=white" alt="View Full Gallery"/>
+  </a>
 </p>
 
 

@@ -36,16 +36,6 @@ The project was developed using React Native for the front-end and PostgreSQL wi
     </td>
     <td align="center">
       <a href="#">
-        <img src="./assets/Menu.jpg" alt="Component 2" width="200"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
-        <img src="./assets/Animais.jpg" alt="Component 3" width="200"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
         <img src="./assets/Revisao.jpg" alt="Component 4" width="200"/>
       </a>
     </td>

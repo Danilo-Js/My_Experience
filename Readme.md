@@ -23,40 +23,40 @@ This repository serves as a portfolio showcasing the projects I've developed for
 <table>
   <tr>
     <td align="center">
-      <a href="./EasyFarm/assets/2_Menus.gif">
-        <img src="./EasyFarm/assets/2_Menus.gif" alt="Menus" width="200"/><br/>
+      <a href="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/2_Menus.gif">
+        <img src="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/2_Menus.gif" alt="Menus" width="200"/><br/>
         <strong>Menus</strong>
       </a>
     </td>
     <td align="center">
-      <a href="./EasyFarm/assets/3_AtividadeAgricola.gif">
-        <img src="./EasyFarm/assets/3_AtividadeAgricola.gif" alt="Atividade Agrícola" width="200"/><br/>
+      <a href="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/3_AtividadeAgricola.gif">
+        <img src="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/3_AtividadeAgricola.gif" alt="Atividade Agrícola" width="200"/><br/>
         <strong>Agricultural Activity</strong>
       </a>
     </td>
     <td align="center">
-      <a href="./EasyFarm/assets/8_Pluviometria.gif">
-        <img src="./EasyFarm/assets/8_Pluviometria.gif" alt="Pluviometria" width="200"/><br/>
+      <a href="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/8_Pluviometria.gif">
+        <img src="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/8_Pluviometria.gif" alt="Pluviometria" width="200"/><br/>
         <strong>Precipitation</strong>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="./EasyFarm/assets/9_RelatorioAbastecimento.gif">
-        <img src="./EasyFarm/assets/9_RelatorioAbastecimento.gif" alt="Rel. Abastecimento" width="200"/><br/>
+      <a href="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/9_RelatorioAbastecimento.gif">
+        <img src="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/9_RelatorioAbastecimento.gif" alt="Rel. Abastecimento" width="200"/><br/>
         <strong>Supply Report</strong>
       </a>
     </td>
     <td align="center">
-      <a href="./EasyFarm/assets/12_RelatorioPluvioMetria.gif">
-        <img src="./EasyFarm/assets/12_RelatorioPluvioMetria.gif" alt="Rel. Pluviometria" width="200"/><br/>
+      <a href="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/12_RelatorioPluvioMetria.gif">
+        <img src="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/12_RelatorioPluvioMetria.gif" alt="Rel. Pluviometria" width="200"/><br/>
         <strong>Precipitation Report</strong>
       </a>
     </td>
     <td align="center">
-      <a href="./EasyFarm/assets/13_TransferenciaDeEstoque.gif">
-        <img src="./EasyFarm/assets/13_TransferenciaDeEstoque.gif" alt="Transferência de Estoque" width="200"/><br/>
+      <a href="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/13_TransferenciaDeEstoque.gif">
+        <img src="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/assets/13_TransferenciaDeEstoque.gif" alt="Transferência de Estoque" width="200"/><br/>
         <strong>Stock Transfer</strong>
       </a>
     </td>

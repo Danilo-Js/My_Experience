@@ -24,76 +24,54 @@ The frontend of EasyFarm was developed using React Native, and as the main devel
 <table>
   <tr>
     <td align="center">
-      <a href="./assets/2_Menus.gif">
-        <img src="./assets/2_Menus.gif" alt="Menus" width="200"/><br/>
-        <strong>Menus</strong>
-      </a>
+      <img src="./assets/2_Menus.gif" alt="Menus" width="200"/><br/>
+      <strong>Menus</strong>
     </td>
     <td align="center">
-      <a href="./assets/3_AtividadeAgricola.gif">
-        <img src="./assets/3_AtividadeAgricola.gif" alt="Atividade Agrícola" width="200"/><br/>
-        <strong>Agricultural Activity</strong>
-      </a>
+      <img src="./assets/3_AtividadeAgricola.gif" alt="Atividade Agrícola" width="200"/><br/>
+      <strong>Agricultural Activity</strong>
     </td>
     <td align="center">
-      <a href="./assets/4_Abastecimento.gif">
-        <img src="./assets/4_Abastecimento.gif" alt="Abastecimento" width="200"/><br/>
-        <strong>Supply</strong>
-      </a>
+      <img src="./assets/4_Abastecimento.gif" alt="Abastecimento" width="200"/><br/>
+      <strong>Supply</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="./assets/6_Manutencoes.gif">
-        <img src="./assets/6_Manutencoes.gif" alt="Manutenções" width="200"/><br/>
-        <strong>Maintenance</strong>
-      </a>
+      <img src="./assets/6_Manutencoes.gif" alt="Manutenções" width="200"/><br/>
+      <strong>Maintenance</strong>
     </td>
     <td align="center">
-      <a href="./assets/7_OrdemDeServico.gif">
-        <img src="./assets/7_OrdemDeServico.gif" alt="Ordem de Serviço" width="200"/><br/>
-        <strong>Work Order</strong>
-      </a>
+      <img src="./assets/7_OrdemDeServico.gif" alt="Ordem de Serviço" width="200"/><br/>
+      <strong>Work Order</strong>
     </td>
     <td align="center">
-      <a href="./assets/8_Pluviometria.gif">
-        <img src="./assets/8_Pluviometria.gif" alt="Pluviometria" width="200"/><br/>
-        <strong>Precipitation</strong>
-      </a>
+      <img src="./assets/8_Pluviometria.gif" alt="Pluviometria" width="200"/><br/>
+      <strong>Precipitation</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="./assets/9_RelatorioAbastecimento.gif">
-        <img src="./assets/9_RelatorioAbastecimento.gif" alt="Rel. Abastecimento" width="200"/><br/>
-        <strong>Supply Report</strong>
-      </a>
+      <img src="./assets/9_RelatorioAbastecimento.gif" alt="Rel. Abastecimento" width="200"/><br/>
+      <strong>Supply Report</strong>
     </td>
     <td align="center">
-      <a href="./assets/10_RelatorioCompras.gif">
-        <img src="./assets/10_RelatorioCompras.gif" alt="Rel. Compras" width="200"/><br/>
-        <strong>Purchases Report</strong>
-      </a>
+      <img src="./assets/10_RelatorioCompras.gif" alt="Rel. Compras" width="200"/><br/>
+      <strong>Purchases Report</strong>
     </td>
     <td align="center">
-      <a href="./assets/11_RelatorioContasAPagar.gif">
-        <img src="./assets/11_RelatorioContasAPagar.gif" alt="Contas a Pagar" width="200"/><br/>
-        <strong>Accounts Payable</strong>
-      </a>
+      <img src="./assets/11_RelatorioContasAPagar.gif" alt="Contas a Pagar" width="200"/><br/>
+      <strong>Accounts Payable</strong>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="./assets/12_RelatorioPluvioMetria.gif">
-        <img src="./assets/12_RelatorioPluvioMetria.gif" alt="Rel. Pluviometria" width="200"/><br/>
-        <strong>Precipitation Report</strong>
-      </a>
+      <img src="./assets/12_RelatorioPluvioMetria.gif" alt="Rel. Pluviometria" width="200"/><br/>
+      <strong>Precipitation Report</strong>
     </td>
     <td align="center">
-      <a href="./assets/13_TransferenciaDeEstoque.gif">
-        <img src="./assets/13_TransferenciaDeEstoque.gif" alt="Transferência de Estoque" width="200"/><br/>
-        <strong>Stock Transfer</strong>
-      </a>
+      <img src="./assets/13_TransferenciaDeEstoque.gif" alt="Transferência de Estoque" width="200"/><br/>
+      <strong>Stock Transfer</strong>
     </td>
   </tr>
 </table>

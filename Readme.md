@@ -40,13 +40,8 @@ See [more](https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/info.md
 ## SCL
 
 The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
-This software belongs to the company Rerum.
 
 See [more](https://github.com/Danilo-Js/My_Experience/blob/main/SCL/info.md)
-
-<p align="center">
-  <img src="./SCL/assets/2.gif" alt="animated" />
-</p>
 
 ---
 

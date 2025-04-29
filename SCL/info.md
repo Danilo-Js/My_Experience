@@ -18,7 +18,7 @@
 ## :iphone: About the project
 
 <p align="justify">
-The Milk Control System is a tool developed for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
+The Milk Control System is a tool developed for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production. This software belongs to the company Rerum.
 </p>
 
 <p align="justify">

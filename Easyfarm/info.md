@@ -8,20 +8,95 @@
 
 </div>
 
-<p align="center" direction="row">
-  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#balloon-modules">Modules</a>
-</p>
 
 ## :iphone: About the project
 
 <p align="justify">
-EasyFarm's mission is to organize all farm information in one place, making it possible to manage a farm in a complete, simple, and organized way.
-This management is done through the modules: Agricultural Activity, Supply, Inventory, Maintenance, Service Orders, Purchases, and Rainfall.
-There is also the generation of reports for each of the modules.
+EasyFarm's mission is to organize all farm information in one place, enabling comprehensive, simplified, and organized farm management. 
+
+This management is facilitated through modules including Agricultural Activity, Supply, Inventory, Maintenance, Service Orders, Purchases, and Rainfall. Each module has report generation capabilities. 
+
+The frontend of EasyFarm was developed using React Native, and as the main developer, I have crafted and implemented these features to ensure an optimal user experience.
 </p>
 
+## 🎞️ Easyfarm – GIF Showcase
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="./assets/2_Menus.gif">
+        <img src="./assets/2_Menus.gif" alt="Menus" width="200"/><br/>
+        <strong>Menus</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./assets/3_AtividadeAgricola.gif">
+        <img src="./assets/3_AtividadeAgricola.gif" alt="Atividade Agrícola" width="200"/><br/>
+        <strong>Agricultural Activity</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./assets/4_Abastecimento.gif">
+        <img src="./assets/4_Abastecimento.gif" alt="Abastecimento" width="200"/><br/>
+        <strong>Supply</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./assets/6_Manutencoes.gif">
+        <img src="./assets/6_Manutencoes.gif" alt="Manutenções" width="200"/><br/>
+        <strong>Maintenance</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./assets/7_OrdemDeServico.gif">
+        <img src="./assets/7_OrdemDeServico.gif" alt="Ordem de Serviço" width="200"/><br/>
+        <strong>Work Order</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./assets/8_Pluviometria.gif">
+        <img src="./assets/8_Pluviometria.gif" alt="Pluviometria" width="200"/><br/>
+        <strong>Precipitation</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./assets/9_RelatorioAbastecimento.gif">
+        <img src="./assets/9_RelatorioAbastecimento.gif" alt="Rel. Abastecimento" width="200"/><br/>
+        <strong>Supply Report</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./assets/10_RelatorioCompras.gif">
+        <img src="./assets/10_RelatorioCompras.gif" alt="Rel. Compras" width="200"/><br/>
+        <strong>Purchases Report</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./assets/11_RelatorioContasAPagar.gif">
+        <img src="./assets/11_RelatorioContasAPagar.gif" alt="Contas a Pagar" width="200"/><br/>
+        <strong>Accounts Payable</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./assets/12_RelatorioPluvioMetria.gif">
+        <img src="./assets/12_RelatorioPluvioMetria.gif" alt="Rel. Pluviometria" width="200"/><br/>
+        <strong>Precipitation Report</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./assets/13_TransferenciaDeEstoque.gif">
+        <img src="./assets/13_TransferenciaDeEstoque.gif" alt="Transferência de Estoque" width="200"/><br/>
+        <strong>Stock Transfer</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## :rocket: Technologies
 
@@ -61,48 +136,6 @@ To write the code:
 -  [Portalize](https://github.com/jeremybarbet/react-native-portalize)
 -  [Modalize](https://github.com/jeremybarbet/react-native-portalize)
 -  [Moment](https://momentjs.com)
-
-## :balloon: Modules
-##### This is a video gallery. Click on the module name to watch the video!
-
-<div align="center">
-
-#### [Login](https://mega.nz/embed/8pllXbpB#7NvnnT-Ul4gtQtKB3zFxtZzV7LC7T2AfYNx_rD9EkZQ)
-
-#### [Menus](https://mega.nz/embed/Mt9VSDZL#CSsENOemYXQSI1Qb3oPvA9Ciy-spSk1PuA1ep-5Qa6s)
-<img src="./assets/2_Menus.gif" alt="animated" />
-
-#### [Agricultural Activity](https://mega.nz/embed/t80H2ZZJ#S17zmTEd3rbvRobc3v-TsxZ5n3aejsiqLY57tWdrt1I)
-<img src="./assets/3_AtividadeAgricola.gif" alt="animated" />
-
-#### [Stock Transfer](https://mega.nz/embed/8x8WEBwR#A9yeobAqQXu5j4ALQrkdQCKjsQcWQGAmjmBD7BC70zg)
-<img src="./assets/13_TransferenciaDeEstoque.gif" alt="animated" />
-
-#### [Order of Service](https://mega.nz/embed/l00XjbJR#gGh7tReVVZWMHJpBd4JPmop-pUOQ9peJqg2KUaTXOVM)
-<img src="./assets/7_OrdemDeServico.gif" alt="animated" />
-
-#### [Rainfall](https://mega.nz/embed/o4VTFRwQ#EoRMHeHADuTFD8cXsTp4OUZmy4JJw8ITrZmxm6HeVrc)
-<img src="./assets/8_Pluviometria.gif" alt="animated" />
-
-#### [Maintenance](https://mega.nz/embed/IgFDHbCL#DxQeA-j2HwSL8GI5PZT61sxsF3wuL0hYNhJh29QIYt8)
-<img src="./assets/6_Manutencoes.gif" alt="animated" />
-
-#### [Supply](https://mega.nz/embed/Msc01RAL#uzz1eUf1al4DNrh3-qiBmrXQdQD-0Q2g0e2_n1eQqek)
-<img src="./assets/4_Abastecimento.gif" alt="animated" />
-
-#### [Supply Report](https://mega.nz/embed/Fp1TBKob#eo2g3_thnT-gfn2ltnM9EFrZciFkEMfuOEaJzlXFHqk)
-<img src="./assets/9_RelatorioAbastecimento.gif" alt="animated" />
-
-#### [Purchasing Report](https://mega.nz/embed/c81FUKSK#89z3MvJKQHxEXLXGYouq2U_C45ZmlIPh7Tio4eL2pMk)
-<img src="./assets/10_RelatorioCompras.gif" alt="animated" />
-
-#### [Rainfall Report](https://mega.nz/embed/YgNTFbJK#3xRITlQ9h3lwCmJVHZv_pLPq1t5ICyOQWOXbZvamExw)
-<img src="./assets/12_RelatorioPluvioMetria.gif" alt="animated" />
-
-#### [Financial report](https://mega.nz/embed/lxlkwaja#d-FW_LaPC1dHGkoF9Fv59hNCbzQDduOQ_3dJYWtkWW4)
-<img src="./assets/11_RelatorioContasAPagar.gif" alt="animated" />
-
-</div>
 
 ---
 

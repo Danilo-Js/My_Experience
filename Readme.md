@@ -1,12 +1,5 @@
 <div align="center">
 
-</div>
-<p align="center">
-  <img src="./images/reactNative.png">
-</p>
-
-<div align="center">
-
 # My experience
 
 </div>
@@ -21,27 +14,80 @@
 
 ## :balloon: What is this?
 
-This is a compilation of private projects I've developed.
+This repository serves as a portfolio showcasing the projects I've developed for private companies. It includes concise summaries and a collection of images and GIFs.
 
 ## :iphone: About the projects
 
 ## Easyfarm
 
-EasyFarm's mission is to organize all farm information in one place, making it possible to manage a farm in a complete, simple, and organized way.
-This management is done through the modules: Agricultural Activity, Supply, Inventory, Maintenance, Service Orders, Purchases, and Rainfall.
-There is also the generation of reports for each of the modules.
+<table>
+  <tr>
+    <td align="center">
+      <a href="./EasyFarm/assets/2_Menus.gif">
+        <img src="./EasyFarm/assets/2_Menus.gif" alt="Menus" width="200"/><br/>
+        <strong>Menus</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./EasyFarm/assets/3_AtividadeAgricola.gif">
+        <img src="./EasyFarm/assets/3_AtividadeAgricola.gif" alt="Atividade Agrícola" width="200"/><br/>
+        <strong>Agricultural Activity</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./EasyFarm/assets/8_Pluviometria.gif">
+        <img src="./EasyFarm/assets/8_Pluviometria.gif" alt="Pluviometria" width="200"/><br/>
+        <strong>Precipitation</strong>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./EasyFarm/assets/9_RelatorioAbastecimento.gif">
+        <img src="./EasyFarm/assets/9_RelatorioAbastecimento.gif" alt="Rel. Abastecimento" width="200"/><br/>
+        <strong>Supply Report</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./EasyFarm/assets/12_RelatorioPluvioMetria.gif">
+        <img src="./EasyFarm/assets/12_RelatorioPluvioMetria.gif" alt="Rel. Pluviometria" width="200"/><br/>
+        <strong>Precipitation Report</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./EasyFarm/assets/13_TransferenciaDeEstoque.gif">
+        <img src="./EasyFarm/assets/13_TransferenciaDeEstoque.gif" alt="Transferência de Estoque" width="200"/><br/>
+        <strong>Stock Transfer</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-See [more](https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/info.md)
-
-<p align="center">
-  <img src="./Easyfarm/assets/7_OrdemDeServico.gif" alt="animated" />
-</p>
+<a href="https://github.com/Danilo-Js/My_Experience/blob/main/Easyfarm/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
 
 ## SCL
 
-The Milk Control System is a tool made for the Brazilian Association of Girolando Breeders to manage their breeders, cows, and milk production.
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="./SCL/assets/Drawer.jpg" alt="Component 1" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./SCL/assets/Revisao.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./SCL/assets/Parto.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-See [more](https://github.com/Danilo-Js/My_Experience/blob/main/SCL/info.md)
+<a href="https://github.com/Danilo-Js/My_Experience/blob/main/SCL/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
 
 ---
 

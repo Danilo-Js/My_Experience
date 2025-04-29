@@ -104,19 +104,6 @@ To write the code:
 -  [Modalize](https://github.com/jeremybarbet/react-native-portalize)
 -  [Moment](https://momentjs.com)
 
-## :balloon: Modules 
-##### This is a video gallery. Click on the module name to watch the video!
-
-<div align="center">
-
-#### [Login](https://mega.nz/file/1oEQDByL#YPAT9MicDYn-5dDY41A3G4OBBm4oxtTajKK-kJeqPaI)
-<img src="./assets/1_Login.gif" alt="animated" />
-
-#### [Weighing](https://mega.nz/file/E0N3na4Q#-lLSb0adqH_osrPKUeb5KDUEj1fkt6UnDs5BDmOKJuE)
-<img src="./assets/2.gif" alt="animated" />
-
-</div>
-
 ---
 
 #### Made by Danilo José Lima de Oliveira ♥ 

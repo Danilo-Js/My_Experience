@@ -8,13 +8,6 @@
 
 </div>
 
-<p align="center" direction="row">
-  <a href="#iphone-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#login">Login</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#weighing">Weighing</a>
-</p>
-
 ## :iphone: About the project
 
 <p align="justify">

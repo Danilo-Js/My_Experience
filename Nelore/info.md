@@ -14,6 +14,12 @@
 The Nelore project is a PHP and WordPress-based website that I contributed to by being responsible for the development of custom plugins. This site belongs to the "Associação de Criadores Nelore do Brasil" and involved the recreation of an existing legacy project. It features a variety of functionalities and provides extensive information for Nelore cattle breeders.
 </p>
 
+<p align="center">
+  <a href="https://acnb.rerum.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-0078D7?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit Website"/>
+  </a>
+</p>
+
 ## 📸 Gallery
 
 <table>

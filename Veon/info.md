@@ -14,6 +14,12 @@
 The Veon Casa project is a sophisticated real estate website built using PHP and WordPress. As a prominent member of the development team, I was responsible for creating custom plugins specifically tailored for this project. This platform is designed to facilitate the search and showcase of real estate properties to potential clients, offering innovative solutions and seamless integration to enhance the user experience.
 </p>
 
+<p align="center">
+  <a href="https://veoncasa.rerum.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20Website-0078D7?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit Website"/>
+  </a>
+</p>
+
 ## 📸 Gallery
 
 <table>

@@ -1,9 +1,5 @@
 <div align="center">
 
-</div>
-
-<div align="center">
-
 # Veon Casa
 
 </div>

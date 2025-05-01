@@ -142,6 +142,28 @@ This repository serves as a portfolio showcasing the projects I've developed for
 
 ## SobControle Leite
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="./SobControleLeite/assets/Login.jpg" alt="Component 1" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./SobControleLeite/assets/Menu.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./SobControleLeite/assets/Form.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/Danilo-Js/My_Experience/blob/main/SobControleLeite/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
+
 ## ABS
 
 ## Sitef

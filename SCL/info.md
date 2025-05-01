@@ -1,9 +1,5 @@
 <div align="center">
 
-</div>
-
-<div align="center">
-
 # SCL - Milk Control System
 
 </div>

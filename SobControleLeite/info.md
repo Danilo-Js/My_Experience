@@ -1,19 +1,13 @@
 <div align="center">
 
-# Veon Casa
+# SobControle Leite
 
 </div>
 
 ## :iphone: About the project
 
 <p align="justify">
-The Nelore project is a PHP and WordPress-based website that I contributed to by being responsible for the development of custom plugins. This site belongs to the "Associação de Criadores Nelore do Brasil" and involved the recreation of an existing legacy project. It features a variety of functionalities and provides extensive information for Nelore cattle breeders.
-</p>
-
-<p align="center">
-  <a href="https://acnb.rerum.dev.br" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Website-0078D7?style=for-the-badge&logo=wordpress&logoColor=white" alt="Visit Website"/>
-  </a>
+SobControle and SobControle Leite are innovative applications crafted to assist in farm and milk production management. Both apps are developed using Ionic and include specific modules tailored for managing farm operations and optimizing milk production. My role in the development of these applications was focused on maintenance and bug fixes, ensuring their smooth operation and reliability for users.
 </p>
 
 ## 📸 Gallery
@@ -21,16 +15,25 @@ The Nelore project is a PHP and WordPress-based website that I contributed to by
 <table>
   <tr>
     <td align="center">
-      <img src="./assets/Home.png" alt="Home" width="600"/><br/>
+      <a href="#">
+        <img src="./assets/Login.jpg" alt="Component 1" width="200"/>
+      </a>
     </td>
     <td align="center">
-      <img src="./assets/Resultados.png" alt="Lista" width="600"/><br/>
+      <a href="#">
+        <img src="./assets/Menu.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./assets/Form.jpg" alt="Component 4" width="200"/>
+      </a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://flic.kr/s/aHBqjCcjX6" target="_blank">
+  <a href="https://flic.kr/s/aHBqjCcvHE" target="_blank">
     <img src="https://img.shields.io/badge/View%20Full%20Gallery-0078D7?style=for-the-badge&logo=google&logoColor=white" alt="View Full Gallery"/>
   </a>
 </p>

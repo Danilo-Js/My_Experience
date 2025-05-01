@@ -8,9 +8,10 @@
   <a href="#easyfarm">Easyfarm</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#scl">SCL</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sebraeapp">SebraeApp</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sobcontrole">SobControle</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#nelore">Nelore</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#veon">Veon</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#veon-casa">Veon Casa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobcontrole">SobControle</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobcontrole-leite">SobControle Leite</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#abs">ABS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sitef">Sitef</a>
 </p>
@@ -106,12 +107,40 @@ This repository serves as a portfolio showcasing the projects I've developed for
 
 <a href="https://github.com/Danilo-Js/My_Experience/blob/main/Sebraeapp/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
 
+## Nelore
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Nelore/assets/Home.png" alt="Home" width="600"/><br/>
+    </td>
+    <td align="center">
+      <img src="./Nelore/assets/Resultados.png" alt="Resultados" width="600"/><br/>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/Danilo-Js/My_Experience/blob/main/Nelore/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
+
+## Veon Casa
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Veon/assets/Home.png" alt="Home" width="600"/><br/>
+    </td>
+    <td align="center">
+      <img src="./Veon/assets/Lista.png" alt="Lista" width="600"/><br/>
+    </td>
+  </tr>
+</table>
+
+<a href="https://github.com/Danilo-Js/My_Experience/blob/main/Veon/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
+
 
 ## SobControle
 
-## Nelore
-
-## Veon
+## SobControle Leite
 
 ## ABS
 

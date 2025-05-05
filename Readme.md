@@ -11,7 +11,7 @@
   <a href="#nelore">Nelore</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#veon-casa">Veon Casa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sobcontrole">SobControle</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sobcontrole-leite">SobControle Leite</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sobcontrole-leite">SobControle Leite</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 </br>

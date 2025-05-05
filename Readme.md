@@ -12,8 +12,6 @@
   <a href="#veon-casa">Veon Casa</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sobcontrole">SobControle</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sobcontrole-leite">SobControle Leite</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#abs">ABS</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#sitef">Sitef</a>
 </p>
 
 </br>
@@ -137,9 +135,6 @@ This repository serves as a portfolio showcasing the projects I've developed for
 
 <a href="https://github.com/Danilo-Js/My_Experience/blob/main/Veon/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
 
-
-## SobControle
-
 ## SobControle Leite
 
 <table>
@@ -162,11 +157,31 @@ This repository serves as a portfolio showcasing the projects I've developed for
   </tr>
 </table>
 
-<a href="https://github.com/Danilo-Js/My_Experience/blob/main/SobControleLeite/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
 
-## ABS
+## SobControle
 
-## Sitef
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="./SobControle/assets/IMG-20250505-WA0001.jpg" alt="Component 1" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./SobControle/assets/IMG-20250505-WA0002.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="./SobControle/assets/IMG-20250505-WA0003.jpg" alt="Component 4" width="200"/>
+      </a>
+    </td>
+    
+  </tr>
+</table>
+
+<a href="https://github.com/Danilo-Js/My_Experience/blob/main/SobControle/info.md" style="display:inline-block;background-color:#007BFF;color:white;padding:10px 20px;text-align:center;text-decoration:none;border-radius:5px;font-weight:bold;margin-top:20px;">See More</a>
 
 ---
 
